@@ -1,1 +1,2 @@
-# Among-Us-For-school-
+# Super Smash Flash
+for school
